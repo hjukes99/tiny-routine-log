@@ -7,3 +7,8 @@
 - Ran `npm install` successfully.
 - Ran `npm run build` successfully.
 - Ran `npm test` successfully (`smoke-test: pass`).
+- Initialized git, committed scaffold (`chore: initial scaffold`), and pushed `main` to `origin`.
+- Created GitHub repo: `hjukes99/tiny-routine-log`.
+- Verified remote origin: `https://github.com/hjukes99/tiny-routine-log.git`.
+- Created Jules remote session: `6866808032533415820` (status: Planning).
+- Wrote `jules-sessions.json` with this app's current Jules session list.
